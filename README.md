@@ -1,3 +1,3 @@
 # odin-recipes
 TOP HTML practice
-By utilizing the terminal in Ubuntu along with VSCode, I made a website using HTML.
+By utilizing the terminal in Ubuntu along with VSCode, I made a website using HTML and CSS.
