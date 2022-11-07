@@ -1,0 +1,23 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(255, 209, 209);
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+}
+
+button {
+    font-size: 24px;
+    font-weight: 500;
+    background: rgb(155, 149, 149);
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(54, 54, 56);
+    text-align: center;
+}
